@@ -79,8 +79,8 @@
 - [Laky](https://github.com/Laky-64): PyTgCalls Developer
 - [Dan](https://github.com/delivrance): Pyrogram Developer
 
-Bot ini didasarkan pada karya asli yang dilakukan oleh [Rojserbest](http://github.com/rojserbest). Tanpa kerja kerasnya, YukkiMusicPlayer tidak akan ada.
-YukkiMusicPlayer adalah versi modifikasi dari [Callsmusic](ht
+Bot ini didasarkan pada karya asli yang dilakukan oleh [Rojserbest](http://github.com/rojserbest). Tanpa kerja kerasnya, YukkiMusicPlayer tidak akan ada. 
+YukkiMusicPlayer adalah versi modifikasi dari [Callsmusic](https://github.com/callsmusic/callsmusic) untuk memenuhi kebutuhan beberapa pengguna
 
 - [StarkGang](https://github.com/StarkGang/)
 - [SpEcHiDe](https://github.com/SpEcHiDe/)
