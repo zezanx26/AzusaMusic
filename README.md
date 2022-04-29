@@ -1,7 +1,7 @@
-<h2 align="centre">Venz Music Player</h2>
+<h2 align="centre">Asuka Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/1e2b9e5cc81fcea050492.jpg">
+  <img src="https://telegra.ph/file/f2d7ff5fd1193c7d15bed.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -13,27 +13,24 @@
 - [MongoDB](https://cloud.mongodb.com/) (3.12.1)
 - [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
 
-### Commands 🛠
-#### For all in group
-- `/play` - reply to youtube url or song file to play song
-- `/vplay` - reply to youtube url or song file to play song
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/lyrics <query>` - search lyrics from web
-#### Admins only
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/vstop` - stop video stream
-- `/vpause` - pause video stream
-- `/vresume` - resume video stream
-- `/vskip` - skip video stream
+### Perintah
+#### Untuk semua dalam grup
+- `/play` - membalas url youtube atau file lagu untuk memutar lagu
+- `/vplay` - membalas url youtube atau file lagu untuk memutar lagu
+- `/song <song name>` - unduh lagu yang kamu inginkan
+#### Admin saja
+- `/ pause` - jeda pemutaran lagu
+- `/resume` - melanjutkan pemutaran lagu
+- `/skip` - putar lagu berikutnya
+- `/end` - hentikan pemutaran musik
+- `/vstop` - hentikan streaming video
+- `/vpause` - jeda streaming
+- `/vresume` - melanjutkan streaming
 
 ### Commands for Sudo Users ⚔️
-- `/userbotleaveall` - remove assistant from all chats
-- `/broadcast <reply to message>` - globally brodcast replied message to all chats
-- `/pmpermit [on/off]` - enable/disable pmpermit message
+- `/userbotleaveall` - hapus asisten dari semua obrolan
+- `/broadcast <balas pesan>` - brodcast global membalas pesan ke semua obrolan
+- `/pmpermit [on/off]` - aktifkan/nonaktifkan pesan pmpermit
 
 
 ## String Session :
@@ -45,8 +42,7 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/elskuyy/templat-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
-<a href="https://telegram.dog/XTZ_HerokuBot?start=ZWxza3V5eS92ZW56LW11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/eldy020502/AsukaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 ### Support & Updates 
 <a href="https://t.me/justvenzzz"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/NastyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
@@ -83,8 +79,8 @@
 - [Laky](https://github.com/Laky-64): PyTgCalls Developer
 - [Dan](https://github.com/delivrance): Pyrogram Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork YukkiMusicPlayer won t exist. 
-YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of some users
+Bot ini didasarkan pada karya asli yang dilakukan oleh [Rojserbest](http://github.com/rojserbest). Tanpa kerja kerasnya, YukkiMusicPlayer tidak akan ada.
+YukkiMusicPlayer adalah versi modifikasi dari [Callsmusic](ht
 
 - [StarkGang](https://github.com/StarkGang/)
 - [SpEcHiDe](https://github.com/SpEcHiDe/)
@@ -97,8 +93,3 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 - https://github.com/callsmusic/callsmusic : Source code used here as base
 - https://github.com/DevsExpo/FridayUserbot/blob/master/main_startup/helper_func/basic_helpers.py : Functioms from line 275 to 351
 - https://github.com/TheHamkerCat/WilliamButcherBot/blob/dev/wbb/modules/music.py : From lines 170 to 178
-
-
-> This project exists thanks to these awesome developers and their codes and contributions.
-> And credits goes to all who supported, all who helped and API & environmental requirement package devs and all projects helped in making this project.
-> Special thanks to you for using bot
