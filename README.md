@@ -1,7 +1,7 @@
 <h2 align="centre">Asuka Music Player</h2>
 
 <p align="center">
-  <img src="./resources/extras/botmus.gif" width="576 × 1280px"
+  <img src="./resources/extras/apa.gif" width="600 × 600px"
 </p>
 
 ## Disclaimer
