@@ -34,7 +34,7 @@
 
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://t.me/venzstringbot)
 
 
 <h2 align="center">
