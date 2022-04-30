@@ -1,7 +1,7 @@
 <h2 align="centre">Asuka Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f2d7ff5fd1193c7d15bed.jpg">
+  <img src="./resources/extras/botmus.gif" width="576 × 1280px"
 </p>
 
 ## Disclaimer
