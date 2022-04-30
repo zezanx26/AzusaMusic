@@ -57,7 +57,7 @@
         "SUDO_USERS": {
             "description": "isi dengan user id yang dapat mengakses semua fungsi di bot anda (dipisahkan dengan spasi).",
             "required": true,
-            "value": "1663258664"
+            "value": "1971311438"
         },
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
