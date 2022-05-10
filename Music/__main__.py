@@ -54,9 +54,9 @@ async def load_start():
     await app.send_message(LOG_GROUP_ID, "Bot Started")
     await client.send_message(LOG_GROUP_ID, "Assistant Started")
     #Kalau clone atau fork jangan di hapus ya tolol
-    await client.join_chat("Justvenzzz")
-    await client.join_chat("Venzproject")
-    await client.join_chat("himyname_v")
+    await client.join_chat("zxzansupport")
+    await client.join_chat("zezanxproject")
+    await client.join_chat("zezanx")
     print("[INFO]: STARTED")
     
    
