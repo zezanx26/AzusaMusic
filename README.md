@@ -7,10 +7,10 @@
 ## Disclaimer
 
 ```
-Asuka Music Bot adalah bot bertema anime yang dapat memutar lagu atau streaming video di obrolan suara  bersama teman mu di grub.
-Asuka dapat memutar lagu dengan durasi lagu lebih dari 3 jam.
-Asuka adalah bot musik versi modifikasi dari project yukki yang lama,karena itu sebagian dari fiturnya ada yang mirip dengan repository milik team yukki.
-Asuka sendiri merupakan hasil copy an dari repository milik teman saya yaitu Muhammad Rizky atau pemilik dari Kyy-Userbot.
+Azusa Music Bot adalah bot bertema anime yang dapat memutar lagu atau streaming video di obrolan suara  bersama teman mu di grub.
+Azusa dapat memutar lagu dengan durasi lagu lebih dari 3 jam.
+Azusa adalah bot musik versi modifikasi dari project yukki yang lama,karena itu sebagian dari fiturnya ada yang mirip dengan repository milik team yukki.
+Azusa sendiri merupakan hasil copy an dari repository milik teman saya yaitu Muhammad Rizky atau pemilik dari Kyy-Userbot.
 Mohon menggunakannya untuk hal yang positif
 Dilarang keras untuk memutar atau streaming video dewasa menggunakan repository ini!!!
 ```
