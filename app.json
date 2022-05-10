@@ -1,8 +1,8 @@
 {
-    "name": "Venz-Music",
+    "name": "Azusa-Music",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/eldy020502/AsukaMusic",
+    "repository": "https://github.com/zezanx26/AzusaMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "isi dengan id telegram Anda sebagai pemilik bot",
             "required": true,
-            "value": "1971311438"
+            "value": "1863783304"
         },
         "ASS_ID": {
             "description": "isi dengan telegram id akun assistant",
@@ -47,17 +47,17 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "Justvenzzz"
+            "value": "zxzansupport"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "Venzproject"
+            "value": "zezanxproject"
         },
         "SUDO_USERS": {
             "description": "isi dengan user id yang dapat mengakses semua fungsi di bot anda (dipisahkan dengan spasi).",
             "required": true,
-            "value": "1971311438"
+            "value": "1863783304"
         },
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
-            "value": "https://github.com/eldy020502/AsukaMusic",
+            "value": "https://github.com/zezanx26/AzusaMusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
