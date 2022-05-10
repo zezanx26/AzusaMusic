@@ -45,7 +45,7 @@ def start_pannel():
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ᴇʟグー-12-30"),
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/eldy020502"),
+            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/zezanx26"),
         ],
     ]
     return (
