@@ -1,7 +1,7 @@
 <h2 align="centre">Azusa Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/724f2e3c260b103b492ad.jpg">
+  <img src="https://telegra.ph/file/3677aefb1bc16f12bd300.jpg">
 </p>
 
 ## Disclaimer
